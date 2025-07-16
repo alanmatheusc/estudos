@@ -16,15 +16,9 @@ Neste repositório, estarei compartilhando:
     💡 Conhecimentos que estou desenvolvendo
 
 <h2>Tecnologias que estou estudando 💻</h2>
-
-Atualmente, estou focado em estudar JavaScript para conseguir entrar no mercado de trabalho.
-Tecnologias que já conheço:
-
+    Algoritimos
+    Estrutura de Dados
     JavaScript
     HTML
     CSS
-    Bootstrap
-    AngularJS
     ReactJS
-
-Sinta-se à vontade para explorar os repositórios e contribuir com sugestões ou melhorias! 🚀
