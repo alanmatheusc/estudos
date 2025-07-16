@@ -16,9 +16,9 @@ Neste repositório, estarei compartilhando:
     💡 Conhecimentos que estou desenvolvendo
 
 <h2>Tecnologias que estou estudando 💻</h2 
-    Algoritimos 
-    Estrutura de Dados 
-    JavaScript 
-    HTML 
-    CSS  
-    ReactJS
+    <p>Algoritimos</p> 
+    <p>Estrutura de Dados</p> 
+    <p>JavaScript </p>
+    <p>HTML</p> 
+ <p>   CSS  </p>
+    <p></p>ReactJS
