@@ -15,10 +15,10 @@ Neste repositório, estarei compartilhando:
     📘 Conteúdos que estou estudando
     💡 Conhecimentos que estou desenvolvendo
 
-<h2>Tecnologias que estou estudando 💻</h2 \n
-    Algoritimos\n
-    Estrutura de Dados\n
-    JavaScript\n
-    HTML\n
-    CSS\n
+<h2>Tecnologias que estou estudando 💻</h2 
+    Algoritimos 
+    Estrutura de Dados 
+    JavaScript 
+    HTML 
+    CSS  
     ReactJS
